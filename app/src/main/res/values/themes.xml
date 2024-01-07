@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AnimatedSplashScreen" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="SplashScreenTheme" parent="Theme.AnimatedSplashScreen">
+        <item name="android:windowBackground">@drawable/splash_bg</item>
+    </style>
+
+</resources>
